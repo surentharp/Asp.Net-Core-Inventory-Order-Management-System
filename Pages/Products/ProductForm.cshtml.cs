@@ -65,6 +65,10 @@ namespace Indotalent.Pages.Products
 
             [DisplayName("Physical Product?")]
             public bool Physical { get; set; } = true;
+            [DisplayName("Threshold")]
+            public int Threshold { get; set; } = 0;
+            [DisplayName("Auto Reorder?")]
+            public bool AutoReorder { get; set; } = true;
         }
 
         public class MappingProfile : Profile

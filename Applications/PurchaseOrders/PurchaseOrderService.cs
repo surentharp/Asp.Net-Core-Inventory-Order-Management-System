@@ -75,5 +75,25 @@ namespace Indotalent.Applications.PurchaseOrders
             }
         }
 
+        public PurchaseOrderItem? GetLastPurchaseOrderItemForProduct(int productId)
+        {
+            return _context.PurchaseOrderItem
+                .Where(p => p.ProductId == productId)
+                .OrderByDescending(p => p.Id) // Assumes higher ID means newer
+                .FirstOrDefault();
+        }
+
+        // New method to get the last purchase order item and its order details for a product
+        public (PurchaseOrder? LastOrder, PurchaseOrderItem? LastOrderItem) GetLastOrderDetailsForProduct(int productId)
+        {
+            var lastOrderItem = _context.PurchaseOrderItem
+                .Include(poi => poi.PurchaseOrder) // Include related PurchaseOrder to get VendorId and TaxId
+                .Where(poi => poi.ProductId == productId)
+                .OrderByDescending(poi => poi.Id) // Assumes higher ID indicates more recent
+                .FirstOrDefault();
+
+            return (lastOrderItem?.PurchaseOrder, lastOrderItem);
+        }
+
     }
 }

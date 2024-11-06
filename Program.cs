@@ -1,12 +1,15 @@
+using DeviceDetectorNET.Parser.Device;
 using Indotalent;
 using Indotalent.AppSettings;
 using Indotalent.Data;
+using Indotalent.Infrastructures.InventoryCheckService;
 using Indotalent.Infrastructures.Middlewares;
 using Indotalent.Infrastructures.ODatas;
 using Indotalent.Infrastructures.Pdfs;
 using Indotalent.Models.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using WkHtmlToPdfDotNet;
 using WkHtmlToPdfDotNet.Contracts;
@@ -75,9 +78,10 @@ builder.Services
 
 builder.Services
     .AddSingleton(typeof(IConverter), new SynchronizedConverter(new PdfTools()));
-
 builder.Services
     .AddSingleton<IPdfService, PdfService>();
+
+builder.Services.AddHostedService<InventoryCheckService>();
 
 builder.Services
     .AddCustomOData();

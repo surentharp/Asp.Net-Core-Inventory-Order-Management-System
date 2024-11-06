@@ -33,6 +33,8 @@ namespace Indotalent.ApiOData
                     UnitMeasure = rec.UnitMeasure!.Name,
                     UnitPrice = rec.UnitPrice,
                     Physical = rec.Physical,
+                    Threshold = rec.Threshold,
+                    AutoReorder = rec.AutoReorder,
                 });
         }
 

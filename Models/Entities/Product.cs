@@ -13,6 +13,8 @@ namespace Indotalent.Models.Entities
         public required int UnitMeasureId { get; set; }
         public UnitMeasure? UnitMeasure { get; set; }
         public required int ProductGroupId { get; set; }
+        public bool AutoReorder { get; set; }
+        public int Threshold { get; set; }
         public ProductGroup? ProductGroup { get; set; }
     }
 }

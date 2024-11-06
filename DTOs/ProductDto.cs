@@ -7,6 +7,8 @@
         public string? Number { get; set; }
         public double? UnitPrice { get; set; }
         public bool? Physical { get; set; }
+        public bool AutoReorder { get; set; }
+        public int Threshold { get; set; }
         public string? ProductGroup { get; set; }
         public string? UnitMeasure { get; set; }
         public Guid? RowGuid { get; set; }

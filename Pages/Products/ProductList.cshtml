@@ -55,6 +55,8 @@
                     { field: 'UnitMeasure', width: 100 },
                     { field: 'Physical', width: 100, textAlign: 'Center', displayAsCheckBox: true, type: 'boolean' },
                     { field: 'UnitPrice', width: 100, type: 'number', textAlign: 'Right', format: 'N2' },
+                    { field: 'AutoReorder', width: 100, textAlign: 'Center', displayAsCheckBox: true, type: 'boolean' },
+                    { field: 'Threshold', width: 100, type: 'number', textAlign: 'Right', format: 'N2' },
                 ],
                 toolbar: [
                     'ExcelExport', 'Search',
@@ -67,7 +69,7 @@
                 },
                 dataBound: function () {
                     grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom'], false);
-                    grid.autoFitColumns(['CreatedAtUtc', 'Name', 'Number', 'ProductGroup', 'UnitMeasure', 'Physical', 'UnitPrice']);
+                    grid.autoFitColumns(['CreatedAtUtc', 'Name', 'Number', 'ProductGroup', 'UnitMeasure', 'Physical', 'UnitPrice', 'AutoRorder', 'Threshold']);
                 },
                 excelExportComplete: () => {
                 },

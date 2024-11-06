@@ -1,0 +1,2797 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Indotalent.Data.Demo.DemoAdjustmentMinus" Collapsed="true">
+    <Position X="60" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoAdjustmentMinus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoAdjustmentPlus" Collapsed="true">
+    <Position X="61.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoAdjustmentPlus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoCustomer" Collapsed="true">
+    <Position X="63.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoCustomerCategory" Collapsed="true">
+    <Position X="65.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoCustomerCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoCustomerContact" Collapsed="true">
+    <Position X="67" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoCustomerContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoCustomerGroup" Collapsed="true">
+    <Position X="68.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoCustomerGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoDeliveryOrder" Collapsed="true">
+    <Position X="70.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoDeliveryOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoGoodsReceive" Collapsed="true">
+    <Position X="72.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoGoodsReceive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoProduct" Collapsed="true">
+    <Position X="74" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoProductGroup" Collapsed="true">
+    <Position X="75.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoProductGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoPurchaseOrder" Collapsed="true">
+    <Position X="47.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoPurchaseOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoPurchaseReturn" Collapsed="true">
+    <Position X="49.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoPurchaseReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoSalesOrder" Collapsed="true">
+    <Position X="51.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoSalesOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoSalesReturn" Collapsed="true">
+    <Position X="53" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoSalesReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoScrapping" Collapsed="true">
+    <Position X="54.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoScrapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoStockCount" Collapsed="true">
+    <Position X="56.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoStockCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoTax" Collapsed="true">
+    <Position X="58.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoTax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoTransferIn" Collapsed="true">
+    <Position X="60" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoTransferIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoTransferOut" Collapsed="true">
+    <Position X="61.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoTransferOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoUnitMeasure" Collapsed="true">
+    <Position X="63.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoUnitMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoVendor" Collapsed="true">
+    <Position X="65.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoVendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoVendorCategory" Collapsed="true">
+    <Position X="67" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoVendorCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoVendorContact" Collapsed="true">
+    <Position X="68.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoVendorContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoVendorGroup" Collapsed="true">
+    <Position X="70.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoVendorGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.Demo.DemoWarehouse" Collapsed="true">
+    <Position X="72.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Demo\DemoWarehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.System.DefaultCompany" Collapsed="true">
+    <Position X="67" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\System\DefaultCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.System.DefaultRole" Collapsed="true">
+    <Position X="70.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\System\DefaultRole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.System.DefaultSystemWarehouse" Collapsed="true">
+    <Position X="72.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\System\DefaultSystemWarehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.System.DefaultUser" Collapsed="true">
+    <Position X="74" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\System\DefaultUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.ApplicationDbContext" Collapsed="true">
+    <Position X="58.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFCAAAAABYggkAIJAAwAAJgMsDAAABCCIAAhAgAAAI=</HashCode>
+      <FileName>Data\ApplicationDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Data.DbInitializer" Collapsed="true">
+    <Position X="65.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DbInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations._BaseConfiguration&lt;TEntity&gt;" Collapsed="true">
+    <Position X="57" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\_BaseConfiguration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.AdjustmentMinusConfiguration" Collapsed="true">
+    <Position X="61.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\AdjustmentMinusConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.AdjustmentPlusConfiguration" Collapsed="true">
+    <Position X="66" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\AdjustmentPlusConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.ApplicationUserConfiguration" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="61.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\ApplicationUserConfiguration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.CompanyConfiguration" Collapsed="true">
+    <Position X="72.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\CompanyConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.CustomerCategoryConfiguration" Collapsed="true">
+    <Position X="77.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\CustomerCategoryConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.CustomerConfiguration" Collapsed="true">
+    <Position X="81.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\CustomerConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.CustomerContactConfiguration" Collapsed="true">
+    <Position X="86.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\CustomerContactConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.CustomerGroupConfiguration" Collapsed="true">
+    <Position X="90.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\CustomerGroupConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.DeliveryOrderConfiguration" Collapsed="true">
+    <Position X="21" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\DeliveryOrderConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.GoodsReceiveConfiguration" Collapsed="true">
+    <Position X="25.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\GoodsReceiveConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.InventoryTransactionConfiguration" Collapsed="true">
+    <Position X="30" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\InventoryTransactionConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.LogAnalyticConfiguration" Collapsed="true">
+    <Position X="34.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\LogAnalyticConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.LogErrorConfiguration" Collapsed="true">
+    <Position X="39" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\LogErrorConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.LogSessionConfiguration" Collapsed="true">
+    <Position X="43.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\LogSessionConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.NumberSequenceConfiguration" Collapsed="true">
+    <Position X="48" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\NumberSequenceConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.ProductConfiguration" Collapsed="true">
+    <Position X="50.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\ProductConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.ProductGroupConfiguration" Collapsed="true">
+    <Position X="52.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\ProductGroupConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.PurchaseOrderConfiguration" Collapsed="true">
+    <Position X="54.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\PurchaseOrderConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.PurchaseOrderItemConfiguration" Collapsed="true">
+    <Position X="57" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\PurchaseOrderItemConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.PurchaseReturnConfiguration" Collapsed="true">
+    <Position X="59.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\PurchaseReturnConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.SalesOrderConfiguration" Collapsed="true">
+    <Position X="63.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\SalesOrderConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.SalesOrderItemConfiguration" Collapsed="true">
+    <Position X="68.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\SalesOrderItemConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.SalesReturnConfiguration" Collapsed="true">
+    <Position X="70.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\SalesReturnConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.ScrappingConfiguration" Collapsed="true">
+    <Position X="75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\ScrappingConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.StockCountConfiguration" Collapsed="true">
+    <Position X="79.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\StockCountConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.TaxConfiguration" Collapsed="true">
+    <Position X="84" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\TaxConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.TransferInConfiguration" Collapsed="true">
+    <Position X="88.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\TransferInConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.TransferOutConfiguration" Collapsed="true">
+    <Position X="93" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\TransferOutConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.UnitMeasureConfiguration" Collapsed="true">
+    <Position X="23.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\UnitMeasureConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.VendorCategoryConfiguration" Collapsed="true">
+    <Position X="27.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\VendorCategoryConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.VendorConfiguration" Collapsed="true">
+    <Position X="32.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\VendorConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.VendorContactConfiguration" Collapsed="true">
+    <Position X="36.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\VendorContactConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.VendorGroupConfiguration" Collapsed="true">
+    <Position X="41.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\VendorGroupConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Configurations.WarehouseConfiguration" Collapsed="true">
+    <Position X="45.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Configurations\WarehouseConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Contracts._Base" Collapsed="true">
+    <Position X="57" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UIACAAAAAgAAAAAAQAACAAAAAAAAAAAAAAgAABACAgA=</HashCode>
+      <FileName>Models\Contracts\_Base.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Indotalent.Models.Entities.AdjustmentMinus" Collapsed="true">
+    <Position X="52.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\AdjustmentMinus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.AdjustmentPlus" Collapsed="true">
+    <Position X="57" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\AdjustmentPlus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.ApplicationUser" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="60" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VAAAAAAAAgAAAIAIQAQCAAAQAAKACAADAAgABBCKAgA=</HashCode>
+      <FileName>Models\Entities\ApplicationUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Models.Entities.Company" Collapsed="true">
+    <Position X="63.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIgAAIgwAAIAAAAQAQACAIAIAABAAJABhAQAAA=</HashCode>
+      <FileName>Models\Entities\Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.Customer" Collapsed="true">
+    <Position X="68.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAIgAAAgwEAIAEAAQAQAAAIAIAABAAJAhhAQAAA=</HashCode>
+      <FileName>Models\Entities\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.CustomerCategory" Collapsed="true">
+    <Position X="72.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\CustomerCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.CustomerContact" Collapsed="true">
+    <Position X="77.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAgAAAAAEAAQAQAAAAAABAAAAAAAgAIAAA=</HashCode>
+      <FileName>Models\Entities\CustomerContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.CustomerGroup" Collapsed="true">
+    <Position X="81.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\CustomerGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.DeliveryOrder" Collapsed="true">
+    <Position X="86.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAABEAAAABAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Entities\DeliveryOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.GoodsReceive" Collapsed="true">
+    <Position X="90.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAABEgAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\GoodsReceive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.InventoryTransaction" Collapsed="true">
+    <Position X="21" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACiAAEBAAAAACABEAAAAQAgCAIBAACDAQAAcAAQEA=</HashCode>
+      <FileName>Models\Entities\InventoryTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.LogAnalytic" Collapsed="true">
+    <Position X="25.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAACQAQAAAGAAA=</HashCode>
+      <FileName>Models\Entities\LogAnalytic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.LogError" Collapsed="true">
+    <Position X="30" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\LogError.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.LogSession" Collapsed="true">
+    <Position X="34.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAACAAQ=</HashCode>
+      <FileName>Models\Entities\LogSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.NumberSequence" Collapsed="true">
+    <Position X="39" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAACAAAAAAABACAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\NumberSequence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.Product" Collapsed="true">
+    <Position X="41.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAAIAAAAQgAAAAAEgAAAQAAAAAAAICAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Entities\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.ProductGroup" Collapsed="true">
+    <Position X="43.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\ProductGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.PurchaseOrder" Collapsed="true">
+    <Position X="45.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAiAAAAAEAAAQAAACEAAABAAAAAAAAIAAE=</HashCode>
+      <FileName>Models\Entities\PurchaseOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.PurchaseOrderItem" Collapsed="true">
+    <Position X="48" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MACCAAAAAAAAAAAABAAAAAAAAAAAQCAAAAIAgAAAAAA=</HashCode>
+      <FileName>Models\Entities\PurchaseOrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.PurchaseReturn" Collapsed="true">
+    <Position X="50.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAEAAAgAAAAAEAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\PurchaseReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.SalesOrder" Collapsed="true">
+    <Position X="54.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAAAAAAAiAAAAAEAAAQAAACEAABAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\Entities\SalesOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.SalesOrderItem" Collapsed="true">
+    <Position X="59.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MACCAAAAAAAAAAAAAAAAAABAAAAAQAAAAAIggAAAAAA=</HashCode>
+      <FileName>Models\Entities\SalesOrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.SalesReturn" Collapsed="true">
+    <Position X="61.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEAAAwAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\SalesReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.Scrapping" Collapsed="true">
+    <Position X="66" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEBAAgAAAAAEAAABAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\Scrapping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.StockCount" Collapsed="true">
+    <Position X="70.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAEBAAgAAAAAEAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\StockCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.Tax" Collapsed="true">
+    <Position X="75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\Tax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.TransferIn" Collapsed="true">
+    <Position X="79.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAAAEAAAAAAAACAAAAAAgAgAAAAAAA=</HashCode>
+      <FileName>Models\Entities\TransferIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.TransferOut" Collapsed="true">
+    <Position X="84" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAAAEAAAIAAAAAIAAAAAAAAAEAAQEA=</HashCode>
+      <FileName>Models\Entities\TransferOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.UnitMeasure" Collapsed="true">
+    <Position X="88.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\UnitMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.Vendor" Collapsed="true">
+    <Position X="93" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYgAAAgwAAIAEAAQAQgAAJAIAABAAJABhAQAAA=</HashCode>
+      <FileName>Models\Entities\Vendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.VendorCategory" Collapsed="true">
+    <Position X="23.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\VendorCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.VendorContact" Collapsed="true">
+    <Position X="27.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAEAAQAQAAAAAAABAAAAAAgAIAAA=</HashCode>
+      <FileName>Models\Entities\VendorContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.VendorGroup" Collapsed="true">
+    <Position X="32.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\VendorGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Models.Entities.Warehouse" Collapsed="true">
+    <Position X="36.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgEAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Entities\Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.AdjustmentMinusItemChildController" Collapsed="true">
+    <Position X="49.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAABAAAQCIEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\AdjustmentMinusItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.AdjustmentPlusItemChildController" Collapsed="true">
+    <Position X="53" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAYAABAAAQCAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\AdjustmentPlusItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.ApplicationUserController" Collapsed="true">
+    <Position X="63.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>ApiOData\ApplicationUserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.CompanyController" Collapsed="true">
+    <Position X="51.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>ApiOData\CompanyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.CustomerCategoryController" Collapsed="true">
+    <Position X="63.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ApiOData\CustomerCategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.CustomerContactChildController" Collapsed="true">
+    <Position X="70.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAABAAAACAEAQAAAACAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\CustomerContactChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.CustomerContactController" Collapsed="true">
+    <Position X="74" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\CustomerContactController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.CustomerController" Collapsed="true">
+    <Position X="51.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\CustomerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.CustomerGroupController" Collapsed="true">
+    <Position X="56.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\CustomerGroupController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.DeliveryOrderController" Collapsed="true">
+    <Position X="75.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\DeliveryOrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.DeliveryOrderItemChildController" Collapsed="true">
+    <Position X="53" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAQAABAAAQCAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\DeliveryOrderItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.GoodsReceiveController" Collapsed="true">
+    <Position X="60" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ApiOData\GoodsReceiveController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.GoodsReceiveItemChildController" Collapsed="true">
+    <Position X="67" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAABAAAQCAEAQAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ApiOData\GoodsReceiveItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.InvenStockController" Collapsed="true">
+    <Position X="49.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\InvenStockController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.InvenTransController" Collapsed="true">
+    <Position X="60" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\InvenTransController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.LogAnalyticController" Collapsed="true">
+    <Position X="63.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\LogAnalyticController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.LogErrorController" Collapsed="true">
+    <Position X="75.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\LogErrorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.LogSessionController" Collapsed="true">
+    <Position X="54.75" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\LogSessionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.NegativeAdjustmentController" Collapsed="true">
+    <Position X="60" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\NegativeAdjustmentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.NumberSequenceController" Collapsed="true">
+    <Position X="70.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\NumberSequenceController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.PositiveAdjustmentController" Collapsed="true">
+    <Position X="51.25" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\PositiveAdjustmentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.ProductController" Collapsed="true">
+    <Position X="61.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\ProductController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.ProductGroupController" Collapsed="true">
+    <Position X="67" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\ProductGroupController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.PurchaseOrderController" Collapsed="true">
+    <Position X="75.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\PurchaseOrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.PurchaseOrderItemChildController" Collapsed="true">
+    <Position X="53" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAABAAAABAAAACAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\PurchaseOrderItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.PurchaseOrderItemController" Collapsed="true">
+    <Position X="56.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\PurchaseOrderItemController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.PurchaseReturnController" Collapsed="true">
+    <Position X="65.25" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\PurchaseReturnController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.PurchaseReturnItemChildController" Collapsed="true">
+    <Position X="72.25" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAABAQAABAAAQCAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\PurchaseReturnItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.SalesOrderController" Collapsed="true">
+    <Position X="60" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\SalesOrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.SalesOrderItemChildController" Collapsed="true">
+    <Position X="67" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAABAAAABAAAACAEAQAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ApiOData\SalesOrderItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.SalesOrderItemController" Collapsed="true">
+    <Position X="70.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ApiOData\SalesOrderItemController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.SalesReturnController" Collapsed="true">
+    <Position X="49.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ApiOData\SalesReturnController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.SalesReturnItemChildController" Collapsed="true">
+    <Position X="56.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAABAAAQCAEAQAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ApiOData\SalesReturnItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.ScrappingController" Collapsed="true">
+    <Position X="63.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\ScrappingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.ScrappingItemChildController" Collapsed="true">
+    <Position X="70.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAABAAAQCAEAQAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\ScrappingItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.StockCountController" Collapsed="true">
+    <Position X="54.75" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ApiOData\StockCountController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.StockCountItemChildController" Collapsed="true">
+    <Position X="61.75" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAABAAAQCAEAQAAAAAACAAAAAAA=</HashCode>
+      <FileName>ApiOData\StockCountItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.TaxController" Collapsed="true">
+    <Position X="70.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\TaxController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.TransferInController" Collapsed="true">
+    <Position X="49.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\TransferInController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.TransferInItemChildController" Collapsed="true">
+    <Position X="56.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAQAABAAAQCAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\TransferInItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.TransferOutController" Collapsed="true">
+    <Position X="63.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\TransferOutController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.TransferOutItemChildController" Collapsed="true">
+    <Position X="70.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQgABAAAQCAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\TransferOutItemChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.UnitMeasureController" Collapsed="true">
+    <Position X="47.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\UnitMeasureController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.UserProfileController" Collapsed="true">
+    <Position X="61.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>ApiOData\UserProfileController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.VendorCategoryController" Collapsed="true">
+    <Position X="65.25" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ApiOData\VendorCategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.VendorContactChildController" Collapsed="true">
+    <Position X="72.25" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAABAAAACAEAQAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ApiOData\VendorContactChildController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.VendorContactController" Collapsed="true">
+    <Position X="75.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ApiOData\VendorContactController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.VendorController" Collapsed="true">
+    <Position X="53" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\VendorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.VendorGroupController" Collapsed="true">
+    <Position X="58.25" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ApiOData\VendorGroupController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.ApiOData.WarehouseController" Collapsed="true">
+    <Position X="67" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApiOData\WarehouseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Companies.CompanyFormModel" Collapsed="true">
+    <Position X="54.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEAAAAAAwAAABCAAAAAAAKAAEAAgEAIAAACQ=</HashCode>
+      <FileName>Pages\Companies\CompanyForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Companies.CompanyListModel" Collapsed="true">
+    <Position X="56.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\Companies\CompanyList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.CustomerCategories.CustomerCategoryFormModel" Collapsed="true">
+    <Position X="67" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAoAAAAAAAgAAABAAAAAAAAAAAAAAAEAoAAAAQ=</HashCode>
+      <FileName>Pages\CustomerCategories\CustomerCategoryForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.CustomerCategories.CustomerCategoryListModel" Collapsed="true">
+    <Position X="68.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\CustomerCategories\CustomerCategoryList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.CustomerContacts.CustomerContactFormModel" Collapsed="true">
+    <Position X="47.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAiQEABAAAIACAAAAAAACAEAIAAAAQ=</HashCode>
+      <FileName>Pages\CustomerContacts\CustomerContactForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.CustomerContacts.CustomerContactListModel" Collapsed="true">
+    <Position X="49.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\CustomerContacts\CustomerContactList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.CustomerGroups.CustomerGroupFormModel" Collapsed="true">
+    <Position X="60" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAAAFAAAAAAAAAAAAABAEAIAAAAQ=</HashCode>
+      <FileName>Pages\CustomerGroups\CustomerGroupForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.CustomerGroups.CustomerGroupListModel" Collapsed="true">
+    <Position X="61.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\CustomerGroups\CustomerGroupList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Customers.CustomerFormModel" Collapsed="true">
+    <Position X="54.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAIAAAgQEAFCAAIEAAACAAAAAAMAoAAAAQ=</HashCode>
+      <FileName>Pages\Customers\CustomerForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Customers.CustomerListModel" Collapsed="true">
+    <Position X="63.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\Customers\CustomerList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Dashboards.DefaultDashboardModel" Collapsed="true">
+    <Position X="68.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAABgAgCBEIcAAAIgEAkAAQQIBIQAAwAAQCA4AEASE=</HashCode>
+      <FileName>Pages\Dashboards\DefaultDashboard.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Dashboards.BarSeries" Collapsed="true">
+    <Position X="72.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQAAAAIAEQAIAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pages\Dashboards\DefaultDashboard.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Dashboards.BarDataItem" Collapsed="true">
+    <Position X="70.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Pages\Dashboards\DefaultDashboard.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.DeliveryOrders.DeliveryOrderDownloadModel" Collapsed="true">
+    <Position X="47.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\DeliveryOrders\DeliveryOrderDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.DeliveryOrders.DeliveryOrderFormModel" Collapsed="true">
+    <Position X="51.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAQgAQAAEAAgQEABAQAQAAAIAAgAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\DeliveryOrders\DeliveryOrderForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.DeliveryOrders.DeliveryOrderListModel" Collapsed="true">
+    <Position X="56.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\DeliveryOrders\DeliveryOrderList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.DeliveryOrders.DeliveryOrderPdfModel" Collapsed="true">
+    <Position X="58.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAEAAgAAASAAAQAAAAAAAAAIgABAABAAA=</HashCode>
+      <FileName>Pages\DeliveryOrders\DeliveryOrderPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.GoodsReceives.GoodsReceiveDownloadModel" Collapsed="true">
+    <Position X="61.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\GoodsReceives\GoodsReceiveDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.GoodsReceives.GoodsReceiveFormModel" Collapsed="true">
+    <Position X="65.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQgAAAAAAAgQEABAAAQAAAIAAkAAAAEAIAAAAU=</HashCode>
+      <FileName>Pages\GoodsReceives\GoodsReceiveForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.GoodsReceives.GoodsReceiveListModel" Collapsed="true">
+    <Position X="70.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\GoodsReceives\GoodsReceiveList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.GoodsReceives.GoodsReceivePdfModel" Collapsed="true">
+    <Position X="72.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAgAAASAAAQAABAAABAAAgABAAAAAE=</HashCode>
+      <FileName>Pages\GoodsReceives\GoodsReceivePdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.InventoryMovements.InventoryMovementListModel" Collapsed="true">
+    <Position X="54.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\InventoryMovements\InventoryMovementList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.InventoryStocks.InventoryStockListModel" Collapsed="true">
+    <Position X="56.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\InventoryStocks\InventoryStockList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.InventoryTransactions.InventoryTransactionListModel" Collapsed="true">
+    <Position X="58.25" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\InventoryTransactions\InventoryTransactionList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.LogAnalytics.LogAnalyticListModel" Collapsed="true">
+    <Position X="67" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\LogAnalytics\LogAnalyticList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.LogAnalytics.LogClearingFormModel" Collapsed="true">
+    <Position X="70.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\LogAnalytics\LogClearingForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.LogErrors.LogClearingFormModel" Collapsed="true">
+    <Position X="72.25" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\LogErrors\LogClearingForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.LogErrors.LogErrorListModel" Collapsed="true">
+    <Position X="49.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\LogErrors\LogErrorList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.LogSessions.LogClearingFormModel" Collapsed="true">
+    <Position X="74" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\LogSessions\LogClearingForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.LogSessions.LogSessionListModel" Collapsed="true">
+    <Position X="58.25" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\LogSessions\LogSessionList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.NegativeAdjustments.NegativeAdjustmentDownloadModel" Collapsed="true">
+    <Position X="61.75" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\NegativeAdjustments\NegativeAdjustmentDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.NegativeAdjustments.NegativeAdjustmentFormModel" Collapsed="true">
+    <Position X="65.25" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQgAAAAAAAgQEABAAAQAIAIAAgAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\NegativeAdjustments\NegativeAdjustmentForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.NegativeAdjustments.NegativeAdjustmentListModel" Collapsed="true">
+    <Position X="67" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\NegativeAdjustments\NegativeAdjustmentList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.NegativeAdjustments.NegativeAdjustmentPdfModel" Collapsed="true">
+    <Position X="68.75" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAASAAAQAoAAAAAAAAgABAAAAAA=</HashCode>
+      <FileName>Pages\NegativeAdjustments\NegativeAdjustmentPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.NumberSequences.NumberSequenceListModel" Collapsed="true">
+    <Position X="74" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\NumberSequences\NumberSequenceList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PositiveAdjustments.PositiveAdjustmentDownloadModel" Collapsed="true">
+    <Position X="53" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\PositiveAdjustments\PositiveAdjustmentDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PositiveAdjustments.PositiveAdjustmentFormModel" Collapsed="true">
+    <Position X="56.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAQgAAAAAAAgYEABAAAQAAAIAAgAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\PositiveAdjustments\PositiveAdjustmentForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PositiveAdjustments.PositiveAdjustmentListModel" Collapsed="true">
+    <Position X="58.25" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\PositiveAdjustments\PositiveAdjustmentList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PositiveAdjustments.PositiveAdjustmentPdfModel" Collapsed="true">
+    <Position X="60" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgIAASAAIQAAAAAAAAAAgABAAAAAA=</HashCode>
+      <FileName>Pages\PositiveAdjustments\PositiveAdjustmentPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.ProductGroups.ProductGroupFormModel" Collapsed="true">
+    <Position X="70.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAggAAAAAAgEAABAAAAAAAAAAAAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\ProductGroups\ProductGroupForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.ProductGroups.ProductGroupListModel" Collapsed="true">
+    <Position X="72.25" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\ProductGroups\ProductGroupList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Products.ProductFormModel" Collapsed="true">
+    <Position X="65.25" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYggAAAAAAhQEABAAAEAAAAAAAAAAAEEIAAAAQ=</HashCode>
+      <FileName>Pages\Products\ProductForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Products.ProductListModel" Collapsed="true">
+    <Position X="74" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\Products\ProductList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseOrderItems.PurchaseOrderItemListModel" Collapsed="true">
+    <Position X="60" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\PurchaseOrderItems\PurchaseOrderItemList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseOrders.PurchaseOrderDownloadModel" Collapsed="true">
+    <Position X="47.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\PurchaseOrders\PurchaseOrderDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseOrders.PurchaseOrderFormModel" Collapsed="true">
+    <Position X="51.25" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQlAACAAAAgwEABAAAgAAAAAAgAABAEAICAAAQ=</HashCode>
+      <FileName>Pages\PurchaseOrders\PurchaseOrderForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseOrders.PurchaseOrderListModel" Collapsed="true">
+    <Position X="61.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\PurchaseOrders\PurchaseOrderList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseOrders.PurchaseOrderPdfModel" Collapsed="true">
+    <Position X="63.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAIgAAgBAACAAAAAAAAAABAAAgABAAAAAA=</HashCode>
+      <FileName>Pages\PurchaseOrders\PurchaseOrderPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseReturns.PurchaseReturnDownloadModel" Collapsed="true">
+    <Position X="67" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\PurchaseReturns\PurchaseReturnDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseReturns.PurchaseReturnFormModel" Collapsed="true">
+    <Position X="70.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQgABAAAAAgQEABAAAQAAgIAAgAAAAEAIAAAAU=</HashCode>
+      <FileName>Pages\PurchaseReturns\PurchaseReturnForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseReturns.PurchaseReturnListModel" Collapsed="true">
+    <Position X="75.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\PurchaseReturns\PurchaseReturnList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.PurchaseReturns.PurchaseReturnPdfModel" Collapsed="true">
+    <Position X="47.75" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAIAAAgAAAyAAAQAAAAAABAAAgABAAAAAA=</HashCode>
+      <FileName>Pages\PurchaseReturns\PurchaseReturnPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesOrderItems.SalesOrderItemListModel" Collapsed="true">
+    <Position X="74" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\SalesOrderItems\SalesOrderItemList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesOrders.SalesOrderDownloadModel" Collapsed="true">
+    <Position X="61.75" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\SalesOrders\SalesOrderDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesOrders.SalesOrderFormModel" Collapsed="true">
+    <Position X="65.25" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQhAACAAAAiQEABAAAoAAAAAAgAABAEAIAAAAQ=</HashCode>
+      <FileName>Pages\SalesOrders\SalesOrderForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesOrders.SalesOrderListModel" Collapsed="true">
+    <Position X="75.75" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\SalesOrders\SalesOrderList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesOrders.SalesOrderPdfModel" Collapsed="true">
+    <Position X="47.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAAAAAAgAgAAACAABAAAAAAAAAAAgABAAFAAA=</HashCode>
+      <FileName>Pages\SalesOrders\SalesOrderPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesReturns.SalesReturnDownloadModel" Collapsed="true">
+    <Position X="51.25" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\SalesReturns\SalesReturnDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesReturns.SalesReturnFormModel" Collapsed="true">
+    <Position X="54.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAQgAAAAEAAgQEABAAAQAAQIAAgAAAAEAoAAAAQ=</HashCode>
+      <FileName>Pages\SalesReturns\SalesReturnForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesReturns.SalesReturnListModel" Collapsed="true">
+    <Position X="60" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\SalesReturns\SalesReturnList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.SalesReturns.SalesReturnPdfModel" Collapsed="true">
+    <Position X="61.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAoAAASAAAQAAAAAAAAAAgABgABAAA=</HashCode>
+      <FileName>Pages\SalesReturns\SalesReturnPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Scrappings.ScrappingDownloadModel" Collapsed="true">
+    <Position X="65.25" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\Scrappings\ScrappingDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Scrappings.ScrappingFormModel" Collapsed="true">
+    <Position X="68.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQgAAAAAAAgQEABAAAQAAAIAAgQAAAEAIABAAQ=</HashCode>
+      <FileName>Pages\Scrappings\ScrappingForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Scrappings.ScrappingListModel" Collapsed="true">
+    <Position X="74" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\Scrappings\ScrappingList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Scrappings.ScrappingPdfModel" Collapsed="true">
+    <Position X="75.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAgAAASAAAQAAAAAAAQCAgABAAAAAA=</HashCode>
+      <FileName>Pages\Scrappings\ScrappingPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.StockCounts.StockCountDownloadModel" Collapsed="true">
+    <Position X="56.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\StockCounts\StockCountDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.StockCounts.StockCountFormModel" Collapsed="true">
+    <Position X="60" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQgAAAAAAEgQEABAAAQAAAIAAgAAAAGAIAAAAQ=</HashCode>
+      <FileName>Pages\StockCounts\StockCountForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.StockCounts.StockCountListModel" Collapsed="true">
+    <Position X="65.25" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\StockCounts\StockCountList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.StockCounts.StockCountPdfModel" Collapsed="true">
+    <Position X="67" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAgAAASAAAQAAAAAAAACAgCBAAAAAA=</HashCode>
+      <FileName>Pages\StockCounts\StockCountPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Taxes.TaxFormModel" Collapsed="true">
+    <Position X="74" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAhAAAAAAIgAAABAAAAAAAAAAAAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\Taxes\TaxForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Taxes.TaxListModel" Collapsed="true">
+    <Position X="75.75" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\Taxes\TaxList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferIns.TransferInDownloadModel" Collapsed="true">
+    <Position X="51.25" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\TransferIns\TransferInDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferIns.TransferInFormModel" Collapsed="true">
+    <Position X="54.75" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QICAAAQgAAAAAAAgQkABAAAQAAAAAAgAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\TransferIns\TransferInForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferIns.TransferInListModel" Collapsed="true">
+    <Position X="60" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\TransferIns\TransferInList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferIns.TransferInPdfModel" Collapsed="true">
+    <Position X="61.75" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAgBAASAAAQAAAAAAAAAAgABEAAQAA=</HashCode>
+      <FileName>Pages\TransferIns\TransferInPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferOuts.TransferOutDownloadModel" Collapsed="true">
+    <Position X="65.25" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\TransferOuts\TransferOutDownload.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferOuts.TransferOutFormModel" Collapsed="true">
+    <Position X="68.75" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAQgAAAAAAAgQkABAAAQAAAIAAgAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\TransferOuts\TransferOutForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferOuts.TransferOutListModel" Collapsed="true">
+    <Position X="74" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\TransferOuts\TransferOutList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.TransferOuts.TransferOutPdfModel" Collapsed="true">
+    <Position X="75.75" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAgASAAAQAACAAAAAAAgABEAAQAA=</HashCode>
+      <FileName>Pages\TransferOuts\TransferOutPdf.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.UnitMeasures.UnitMeasureFormModel" Collapsed="true">
+    <Position X="51.25" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAAABAAAEAEAAAAAAAAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\UnitMeasures\UnitMeasureForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.UnitMeasures.UnitMeasureListModel" Collapsed="true">
+    <Position X="53" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\UnitMeasures\UnitMeasureList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.UserProfiles.ChangeAvatarFormModel" Collapsed="true">
+    <Position X="74" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAABAAAgAAABAAAAAAAAAACAAAAEAIABBIA=</HashCode>
+      <FileName>Pages\UserProfiles\ChangeAvatarForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.UserProfiles.ChangePasswordFormModel" Collapsed="true">
+    <Position X="49.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAABBAAAAAAAAAACAAAAEAIABAIA=</HashCode>
+      <FileName>Pages\UserProfiles\ChangePasswordForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.UserProfiles.UserFormModel" Collapsed="true">
+    <Position X="56.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAAABCAAQAAAACACAAAgEAIABAIQ=</HashCode>
+      <FileName>Pages\UserProfiles\UserForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.UserProfiles.UserListModel" Collapsed="true">
+    <Position X="60" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAgAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\UserProfiles\UserList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Users.ChangeAvatarFormModel" Collapsed="true">
+    <Position X="75.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAABAAAgAAABAAAAAAAAAACAAAAEAIAABIA=</HashCode>
+      <FileName>Pages\Users\ChangeAvatarForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Users.ChangePasswordFormModel" Collapsed="true">
+    <Position X="47.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAABBAAAAAAAAAACAAAAEAIABAIA=</HashCode>
+      <FileName>Pages\Users\ChangePasswordForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Users.UserFormModel" Collapsed="true">
+    <Position X="54.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAgAAAAAAAgAAABCAAQAAAACACAAAgEAIABAIQ=</HashCode>
+      <FileName>Pages\Users\UserForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Users.UserListModel" Collapsed="true">
+    <Position X="58.25" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\Users\UserList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.VendorCategories.VendorCategoryFormModel" Collapsed="true">
+    <Position X="68.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAAQBAAAAAAAAAAAAAAAEAYAAAAQ=</HashCode>
+      <FileName>Pages\VendorCategories\VendorCategoryForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.VendorCategories.VendorCategoryListModel" Collapsed="true">
+    <Position X="70.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\VendorCategories\VendorCategoryList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.VendorContacts.VendorContactFormModel" Collapsed="true">
+    <Position X="49.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAkAAEAAAAgwEABAAAAAAAAAAAAAAAEAIEAAAQ=</HashCode>
+      <FileName>Pages\VendorContacts\VendorContactForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.VendorContacts.VendorContactListModel" Collapsed="true">
+    <Position X="51.25" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\VendorContacts\VendorContactList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.VendorGroups.VendorGroupFormModel" Collapsed="true">
+    <Position X="61.75" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAAABAAAAAAAAAAAIAABEAIAAAAQ=</HashCode>
+      <FileName>Pages\VendorGroups\VendorGroupForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.VendorGroups.VendorGroupListModel" Collapsed="true">
+    <Position X="63.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\VendorGroups\VendorGroupList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Vendors.VendorFormModel" Collapsed="true">
+    <Position X="56.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAkAAAAAAAwQEABGAAAAAAACAAAAABEAYAAAAQ=</HashCode>
+      <FileName>Pages\Vendors\VendorForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Vendors.VendorListModel" Collapsed="true">
+    <Position X="65.25" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\Vendors\VendorList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Warehouses.WarehouseFormModel" Collapsed="true">
+    <Position X="70.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAAABAAAAAAAIAAAAgAAEAIAAAAQ=</HashCode>
+      <FileName>Pages\Warehouses\WarehouseForm.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.Warehouses.WarehouseListModel" Collapsed="true">
+    <Position X="72.25" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Pages\Warehouses\WarehouseList.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.ErrorModel" Collapsed="true">
+    <Position X="75.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAIAAQAAAAAAAAAIAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\Error.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Pages.IndexModel" Collapsed="true">
+    <Position X="47.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Pages\Index.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.AppSettings.ApplicationConfiguration" Collapsed="true">
+    <Position X="56.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAEABAAgAAQAGAAIABAYAAAABAAAAGAAgAAAAAAAAA=</HashCode>
+      <FileName>AppSettings\ApplicationConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.AppSettings.IdentitySettings" Collapsed="true">
+    <Position X="75.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAQIAAAAgAABAAAAAAAAAAAAAAoAAAAAIAAAAE=</HashCode>
+      <FileName>AppSettings\IdentitySettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.AppSettings.RegistrationConfiguration" Collapsed="true">
+    <Position X="53" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppSettings\RegistrationConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.AppSettings.SmtpConfiguration" Collapsed="true">
+    <Position X="49.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAACgAACAACAQAAAAAAAAA=</HashCode>
+      <FileName>AppSettings\SmtpConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Countries.CountryService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="60" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Infrastructures\Countries\CountryService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Currencies.CurrencyService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="61.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Currencies\CurrencyService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Docs.FileDocument" Collapsed="true">
+    <Position X="47.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Docs\FileDocument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Docs.FileDocumentService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="49.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAABQAQAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Docs\FileDocumentService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Emails.SMTPEmailService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="51.25" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Infrastructures\Emails\SMTPEmailService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Extensions.EnumExtensions" Collapsed="true">
+    <Position X="74" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Extensions\EnumExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Extensions.HttpContextExtensions" Collapsed="true">
+    <Position X="74" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Extensions\HttpContextExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Extensions.PageModelExtensions" Collapsed="true">
+    <Position X="47.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAgAQAAAAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Infrastructures\Extensions\PageModelExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Extensions.StringExtensions" Collapsed="true">
+    <Position X="68.75" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgAAAAAAAAAAAAAAAAgAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Extensions\StringExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Images.FileImage" Collapsed="true">
+    <Position X="51.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Images\FileImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Images.FileImageService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="53" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgFAAAAAAgAAAQAAACgAAAAAAABAAAAAA=</HashCode>
+      <FileName>Infrastructures\Images\FileImageService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.InventoryCheckService.InventoryCheckService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="53" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAEQAAgAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\InventoryCheckService\InventoryCheckService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Middlewares.GlobalErrorHandlingMiddleware" Collapsed="true">
+    <Position X="58.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Middlewares\GlobalErrorHandlingMiddleware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Middlewares.LogAnalyticMiddleware" Collapsed="true">
+    <Position X="68.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Middlewares\LogAnalyticMiddleware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.ODatas.ODataServiceExtensions" Collapsed="true">
+    <Position X="75.75" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\ODatas\ODataServiceExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.ODatas.SFODataQueryValidator" Collapsed="true">
+    <Position X="47.75" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\ODatas\SFODataQueryValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Pdfs.PdfService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="49.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Infrastructures\Pdfs\PdfService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Repositories.AuditColumnTransformer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Infrastructures\Repositories\AuditColumnTransformer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Repositories.Repository&lt;T&gt;" Collapsed="true">
+    <Position X="57" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAgBABAAQAAAAUBAACAAAgIAgIAAAAAIAA=</HashCode>
+      <FileName>Infrastructures\Repositories\Repository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Indotalent.Infrastructures.Repositories.SoftDeleteFilter" Collapsed="true">
+    <Position X="53" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Repositories\SoftDeleteFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Infrastructures.TimeZones.TimeZoneService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47.75" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Infrastructures\TimeZones\TimeZoneService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.AccessDeniedModel" Collapsed="true">
+    <Position X="47.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\AccessDenied.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.ConfirmEmailModel" Collapsed="true">
+    <Position X="58.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ConfirmEmail.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.ForgotPasswordModel" Collapsed="true">
+    <Position X="56.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAEACAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ForgotPassword.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.ForgotPasswordConfirmation" Collapsed="true">
+    <Position X="54.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.LoginModel" Collapsed="true">
+    <Position X="51.25" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAgAABAACAAMAAAAQAAAAIEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Login.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.LogoutModel" Collapsed="true">
+    <Position X="53" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAABAACAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Logout.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.RegisterModel" Collapsed="true">
+    <Position X="51.25" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAADAAAAQAAAAAgAABAAAAAMgCAAQQAAgoEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Register.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.RegisterConfirmationModel" Collapsed="true">
+    <Position X="49.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAMAACAAAAAggAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.ResendEmailConfirmationModel" Collapsed="true">
+    <Position X="54.75" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAAAAAAAAAAAAAAAAEACAAAAAAAQEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.ResetPasswordModel" Collapsed="true">
+    <Position X="58.25" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ResetPassword.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Areas.Identity.Pages.Account.ResetPasswordConfirmationModel" Collapsed="true">
+    <Position X="56.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.AdjustmentMinuss.AdjustmentMinusService" Collapsed="true">
+    <Position X="66" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\AdjustmentMinuses\AdjustmentMinusService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.AdjustmentPluss.AdjustmentPlusService" Collapsed="true">
+    <Position X="70.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\AdjustmentPluses\AdjustmentPlusService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.ApplicationUsers.ApplicationUserService" Collapsed="true">
+    <Position X="67" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAABAgBABAAQAABAUAAACAAAgIAgIAAAAAIAA=</HashCode>
+      <FileName>Applications\ApplicationUsers\ApplicationUserService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.Companies.CompanyService" Collapsed="true">
+    <Position X="77.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\Companies\CompanyService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.CustomerCategories.CustomerCategoryService" Collapsed="true">
+    <Position X="81.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\CustomerCategories\CustomerCategoryService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.CustomerContacts.CustomerContactService" Collapsed="true">
+    <Position X="86.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\CustomerContacts\CustomerContactService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.CustomerGroups.CustomerGroupService" Collapsed="true">
+    <Position X="90.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\CustomerGroups\CustomerGroupService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.Customers.CustomerService" Collapsed="true">
+    <Position X="21" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\Customers\CustomerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.DeliveryOrders.DeliveryOrderService" Collapsed="true">
+    <Position X="25.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\DeliveryOrders\DeliveryOrderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.GoodsReceives.GoodsReceiveService" Collapsed="true">
+    <Position X="30" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\GoodsReceives\GoodsReceiveService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.InventoryTransactions.InventoryTransactionService" Collapsed="true">
+    <Position X="34.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIAAAgEhMACAAIAAgAAAYgAAAAAIA=</HashCode>
+      <FileName>Applications\InventoryTransactions\InventoryTransactionService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.LogAnalytics.LogAnalyticService" Collapsed="true">
+    <Position X="39" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Applications\LogAnalytics\LogAnalyticService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.LogErrors.LogErrorService" Collapsed="true">
+    <Position X="43.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Applications\LogErrors\LogErrorService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.LogSessions.LogSessionService" Collapsed="true">
+    <Position X="48" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Applications\LogSessions\LogSessionService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.NumberSequences.NumberSequenceService" Collapsed="true">
+    <Position X="52.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAADAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\NumberSequences\NumberSequenceService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.ProductGroups.ProductGroupService" Collapsed="true">
+    <Position X="54.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\ProductGroups\ProductGroupService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.Products.ProductService" Collapsed="true">
+    <Position X="57" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\Products\ProductService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.PurchaseOrderItems.PurchaseOrderItemService" Collapsed="true">
+    <Position X="59.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAgAAAAAAAAAAUAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\PurchaseOrderItems\PurchaseOrderItemService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.PurchaseOrders.PurchaseOrderService" Collapsed="true">
+    <Position X="61.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAACAAAAAABAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\PurchaseOrders\PurchaseOrderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.PurchaseReturns.PurchaseReturnService" Collapsed="true">
+    <Position X="63.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\PurchaseReturns\PurchaseReturnService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.SalesOrderItems.SalesOrderItemService" Collapsed="true">
+    <Position X="68.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAgAAAAAAAAAAUAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\SalesOrderItems\SalesOrderItemService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.SalesOrders.SalesOrderService" Collapsed="true">
+    <Position X="72.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\SalesOrders\SalesOrderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.SalesReturns.SalesReturnService" Collapsed="true">
+    <Position X="75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\SalesReturns\SalesReturnService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.Scrappings.ScrappingService" Collapsed="true">
+    <Position X="79.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\Scrappings\ScrappingService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.StockCounts.StockCountService" Collapsed="true">
+    <Position X="84" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\StockCounts\StockCountService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.Taxes.TaxService" Collapsed="true">
+    <Position X="88.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\Taxes\TaxService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.TransferIns.TransferInService" Collapsed="true">
+    <Position X="93" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\TransferIns\TransferInService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.TransferOuts.TransferOutService" Collapsed="true">
+    <Position X="23.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\TransferOuts\TransferOutService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.UnitMeasures.UnitMeasureService" Collapsed="true">
+    <Position X="27.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\UnitMeasures\UnitMeasureService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.VendorCategories.VendorCategoryService" Collapsed="true">
+    <Position X="32.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\VendorCategories\VendorCategoryService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.VendorContacts.VendorContactService" Collapsed="true">
+    <Position X="36.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\VendorContacts\VendorContactService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.VendorGroups.VendorGroupService" Collapsed="true">
+    <Position X="41.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\VendorGroups\VendorGroupService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.Vendors.VendorService" Collapsed="true">
+    <Position X="45.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Applications\Vendors\VendorService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.Applications.Warehouses.WarehouseService" Collapsed="true">
+    <Position X="50.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIIgAAAAAAAAAAQAAAAAAAwAAAAAAAUAAAA=</HashCode>
+      <FileName>Applications\Warehouses\WarehouseService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.AdjustmentMinusItemChildDto" Collapsed="true">
+    <Position X="51.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\AdjustmentMinusItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.AdjustmentPlusItemChildDto" Collapsed="true">
+    <Position X="54.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\AdjustmentPlusItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.ApplicationUserDto" Collapsed="true">
+    <Position X="65.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAIAIAAQAAAAQAAKACAADAAQABBAIAAA=</HashCode>
+      <FileName>DTOs\ApplicationUserDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.CompanyDto" Collapsed="true">
+    <Position X="53" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAIgAAIgwAAIAAAAQAQACAIAIAABAAJABhAQAAA=</HashCode>
+      <FileName>DTOs\CompanyDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.CustomerCategoryDto" Collapsed="true">
+    <Position X="65.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\CustomerCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.CustomerContactChildDto" Collapsed="true">
+    <Position X="72.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAEAAQAQAAAAAABAAAAAAAgAIAAA=</HashCode>
+      <FileName>DTOs\CustomerContactChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.CustomerContactDto" Collapsed="true">
+    <Position X="75.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIECAAAAAAAgAAAAAEAAQAQAAAAAAAAAAAAAAhAIAAA=</HashCode>
+      <FileName>DTOs\CustomerContactDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.CustomerDto" Collapsed="true">
+    <Position X="53" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAIgAAAgwEAIAEAAQAQAAAIAIAABAAJAhhAQAAA=</HashCode>
+      <FileName>DTOs\CustomerDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.CustomerGroupDto" Collapsed="true">
+    <Position X="58.25" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\CustomerGroupDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.DeliveryOrderDto" Collapsed="true">
+    <Position X="49.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIECAAAEAAAAAAAABEAAAABAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\DeliveryOrderDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.DeliveryOrderItemChildDto" Collapsed="true">
+    <Position X="54.75" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\DeliveryOrderItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.GoodsReceiveDto" Collapsed="true">
+    <Position X="63.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIACAAAEAAAAAAAABEgAAAAAAAAAAABAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\GoodsReceiveDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.GoodsReceiveItemChildDto" Collapsed="true">
+    <Position X="68.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\GoodsReceiveItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.InvenStockDto" Collapsed="true">
+    <Position X="51.25" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAABAAAAAAAAAAAAAAAgAAAAAAACAAAABAAAAA=</HashCode>
+      <FileName>DTOs\InvenStockDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.InvenTransDto" Collapsed="true">
+    <Position X="61.75" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACiAAEAAAAAAAABEAAAAQAgAAABAACCAAAAVAAQAA=</HashCode>
+      <FileName>DTOs\InvenTransDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.LogAnalyticDto" Collapsed="true">
+    <Position X="65.25" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAgAAAAAAAAACQAQABAGAAA=</HashCode>
+      <FileName>DTOs\LogAnalyticDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.LogErrorDto" Collapsed="true">
+    <Position X="47.75" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAgAAAAAAAAAIAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\LogErrorDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.LogSessionDto" Collapsed="true">
+    <Position X="56.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAABACAAQ=</HashCode>
+      <FileName>DTOs\LogSessionDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.NegativeAdjustmentDto" Collapsed="true">
+    <Position X="63.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAEQAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\NegativeAdjustmentDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.NumberSequenceDto" Collapsed="true">
+    <Position X="72.25" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAAAAAAAAAAACAAAAAAABACAAABAAAAA=</HashCode>
+      <FileName>DTOs\NumberSequenceDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.PositiveAdjustmentDto" Collapsed="true">
+    <Position X="54.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAEQAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\PositiveAdjustmentDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.ProductDto" Collapsed="true">
+    <Position X="63.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIACAAAAAAQAAAAAAEgAAAQAAAAAAAICAAAgABAAAAA=</HashCode>
+      <FileName>DTOs\ProductDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.ProductGroupDto" Collapsed="true">
+    <Position X="68.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\ProductGroupDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.PurchaseOrderDto" Collapsed="true">
+    <Position X="49.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIACAAAEAAAgAAAAAEAAAQAAACEAAABAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\PurchaseOrderDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.PurchaseOrderItemChildDto" Collapsed="true">
+    <Position X="54.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MICCAAAAAAAAAAAAAAAAAAAAAAAAQCAAAAAAgBAAAAA=</HashCode>
+      <FileName>DTOs\PurchaseOrderItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.PurchaseOrderItemDto" Collapsed="true">
+    <Position X="58.25" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KICCAAAAAAAAAAAABAAAAAAAAAAAQABAAAAAgBAAAAA=</HashCode>
+      <FileName>DTOs\PurchaseOrderItemDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.PurchaseReturnDto" Collapsed="true">
+    <Position X="68.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIACAAAEAAAAAAAAAEgAAAAAAABAAABAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\PurchaseReturnDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.PurchaseReturnItemChildDto" Collapsed="true">
+    <Position X="74" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\PurchaseReturnItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.SalesOrderDto" Collapsed="true">
+    <Position X="63.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIECAAAEAAAgAAAAAEAAAQAAACEAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\SalesOrderDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.SalesOrderItemChildDto" Collapsed="true">
+    <Position X="68.75" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MICCAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAggBAAAAA=</HashCode>
+      <FileName>DTOs\SalesOrderItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.SalesOrderItemDto" Collapsed="true">
+    <Position X="72.25" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KIGCAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAgBAAAAA=</HashCode>
+      <FileName>DTOs\SalesOrderItemDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.SalesReturnDto" Collapsed="true">
+    <Position X="53" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIECAAAEAAAAAAAABEAAAAAAAAAAAAAAAIAAABAAAAA=</HashCode>
+      <FileName>DTOs\SalesReturnDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.SalesReturnItemChildDto" Collapsed="true">
+    <Position X="58.25" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\SalesReturnItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.ScrappingDto" Collapsed="true">
+    <Position X="67" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAEAAAAAAAAAEAAABAAAAAAAAAACAAAABAAAAA=</HashCode>
+      <FileName>DTOs\ScrappingDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.ScrappingItemChildDto" Collapsed="true">
+    <Position X="72.25" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\ScrappingItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.StockCountDto" Collapsed="true">
+    <Position X="58.25" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACACAEAAAAAAAAAEAAAAAAAAAAAAAACAAAABAAAAA=</HashCode>
+      <FileName>DTOs\StockCountDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.StockCountItemChildDto" Collapsed="true">
+    <Position X="63.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAAAAAAAACAAAAAAAAAgCAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\StockCountItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.TaxDto" Collapsed="true">
+    <Position X="72.25" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAAAAAAQAAAgAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\TaxDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.TransferInDto" Collapsed="true">
+    <Position X="53" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAEAAAIAAAAAEgAAAAAAACAAAAAAAAAAFAAQAA=</HashCode>
+      <FileName>DTOs\TransferInDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.TransferInItemChildDto" Collapsed="true">
+    <Position X="58.25" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\TransferInItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.TransferOutDto" Collapsed="true">
+    <Position X="67" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAEAAAAAAAAAEAAAIAAAAAAAAAAAAAAAFAAQAA=</HashCode>
+      <FileName>DTOs\TransferOutDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.TransferOutItemChildDto" Collapsed="true">
+    <Position X="72.25" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\TransferOutItemChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.UnitMeasureDto" Collapsed="true">
+    <Position X="49.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\UnitMeasureDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.UserProfileDto" Collapsed="true">
+    <Position X="63.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAIAIAAQAAAAQAAKACAADAAAABBAIAAA=</HashCode>
+      <FileName>DTOs\UserProfileDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.VendorCategoryDto" Collapsed="true">
+    <Position X="67" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\VendorCategoryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.VendorContactChildDto" Collapsed="true">
+    <Position X="74" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAEAAQAQAAAAAAAAAAAAAAgAIAAA=</HashCode>
+      <FileName>DTOs\VendorContactChildDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.VendorContactDto" Collapsed="true">
+    <Position X="47.75" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAEAAQAQAAAAAAABAAAAAAhAIAAA=</HashCode>
+      <FileName>DTOs\VendorContactDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.VendorDto" Collapsed="true">
+    <Position X="54.75" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAIgAAAgwAAIAEAAQAQgAAJAIAABAAJABhAQAAA=</HashCode>
+      <FileName>DTOs\VendorDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.VendorGroupDto" Collapsed="true">
+    <Position X="60" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\VendorGroupDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Indotalent.DTOs.WarehouseDto" Collapsed="true">
+    <Position X="68.75" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAgEAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DTOs\WarehouseDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Indotalent.Models.Contracts.IHasAudit" Collapsed="true">
+    <Position X="56.5" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAgAAAAAAQAACAAAAAAAAAAAAAAgAABAAAgA=</HashCode>
+      <FileName>Models\Contracts\IHasAudit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Models.Contracts.IHasId" Collapsed="true">
+    <Position X="58.25" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Contracts\IHasId.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Models.Contracts.IHasSoftDelete" Collapsed="true">
+    <Position X="60" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Contracts\IHasSoftDelete.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.Countries.ICountryService" Collapsed="true">
+    <Position X="49.5" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Infrastructures\Countries\ICountryService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.Currencies.ICurrencyService" Collapsed="true">
+    <Position X="51.25" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Currencies\ICurrencyService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.Docs.IFileDocumentService" Collapsed="true">
+    <Position X="53" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAQAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Docs\IFileDocumentService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.Images.IFileImageService" Collapsed="true">
+    <Position X="54.75" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAgAAAQAAACgAAAAAAABAAAAAA=</HashCode>
+      <FileName>Infrastructures\Images\IFileImageService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.InventoryCheckService.IInventoryCheckService" Collapsed="true">
+    <Position X="61.75" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\InventoryCheckService\IInventoryCheckService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.Pdfs.IPdfService" Collapsed="true">
+    <Position X="63.5" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Pdfs\IPdfService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.Repositories.IAuditColumnTransformer" Collapsed="true">
+    <Position X="47.75" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Repositories\IAuditColumnTransformer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.Repositories.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="65.25" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAUBAAAAAAgAAgAAAAAAIAA=</HashCode>
+      <FileName>Infrastructures\Repositories\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Indotalent.Infrastructures.TimeZones.ITimeZoneService" Collapsed="true">
+    <Position X="67" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Infrastructures\TimeZones\ITimeZoneService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Indotalent.Models.Enums.AdjustmentStatus" Collapsed="true">
+    <Position X="47.75" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\AdjustmentStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.DeliveryOrderStatus" Collapsed="true">
+    <Position X="49.5" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\DeliveryOrderStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.GoodsReceiveStatus" Collapsed="true">
+    <Position X="51.25" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\GoodsReceiveStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.InventoryTransactionStatus" Collapsed="true">
+    <Position X="53" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\InventoryTransactionStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.InventoryTransType" Collapsed="true">
+    <Position X="54.75" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Models\Enums\InventoryTransType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.PurchaseOrderStatus" Collapsed="true">
+    <Position X="56.5" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\PurchaseOrderStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.PurchaseReturnStatus" Collapsed="true">
+    <Position X="58.25" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\PurchaseReturnStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.SalesOrderStatus" Collapsed="true">
+    <Position X="60" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\SalesOrderStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.SalesReturnStatus" Collapsed="true">
+    <Position X="61.75" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\SalesReturnStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.ScrappingStatus" Collapsed="true">
+    <Position X="63.5" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\ScrappingStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.StockCountStatus" Collapsed="true">
+    <Position X="65.25" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\StockCountStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.TransferStatus" Collapsed="true">
+    <Position X="67" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Enums\TransferStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Indotalent.Models.Enums.UserType" Collapsed="true">
+    <Position X="68.75" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enums\UserType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
