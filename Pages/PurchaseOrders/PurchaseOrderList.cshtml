@@ -66,27 +66,28 @@
                     { text: 'Delete', tooltipText: 'Delete', prefixIcon: 'e-delete', id: 'DeleteCustom' },
                     { type: 'Separator' },
                     { text: 'Download Pdf', tooltipText: 'Download Pdf', prefixIcon: 'e-export-pdf', id: 'PdfCustom' },
+                    { text: 'Acknowledgement', tooltipText: 'Acknowledgement', prefixIcon: 'e-export-pdf', id: 'AckCustom' },
                 ],
                 beforeDataBound: () => {
                 },
                 dataBound: function () {
-                    grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom'], false);
+                    grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom', 'AckCustom'], false);
                     grid.autoFitColumns(['CreatedAtUtc', 'Number', 'OrderDate', 'OrderStatus', 'Vendor', 'Tax', 'BeforeTaxAmount', 'TaxAmount', 'AfterTaxAmount']);
                 },
                 excelExportComplete: () => {
                 },
                 rowSelected: () => {
                     if (grid.getSelectedRecords().length == 1) {
-                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom'], true);
+                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom', 'AckCustom'], true);
                     } else {
-                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom'], false);
+                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom', 'AckCustom'], false);
                     }
                 },
                 rowDeselected: () => {
                     if (grid.getSelectedRecords().length == 1) {
-                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom'], true);
+                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom', 'AckCustom'], true);
                     } else {
-                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom'], false);
+                        grid.toolbarModule.enableItems(['EditCustom', 'DeleteCustom', 'PdfCustom', 'AckCustom'], false);
                     }
                 },
                 rowSelecting: () => {
@@ -108,6 +109,14 @@
                         if (grid.getSelectedRecords().length) {
                             var selectedRowGuid = grid.getSelectedRecords()[0].RowGuid;
                             var formUrl = '/PurchaseOrders/PurchaseOrderForm?rowGuid=' + selectedRowGuid + '&action=edit';
+                            window.location.href = formUrl;
+                        }
+                    }
+
+                    if (args.item.id === 'AckCustom') {
+                        if (grid.getSelectedRecords().length) {
+                            var selectedRowGuid = grid.getSelectedRecords()[0].RowGuid;
+                            var formUrl = '/PurchaseOrders/PurchaseOrderForm?rowGuid=' + selectedRowGuid + '&action=ack';
                             window.location.href = formUrl;
                         }
                     }

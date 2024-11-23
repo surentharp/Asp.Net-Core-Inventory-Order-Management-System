@@ -7,6 +7,7 @@ using Indotalent.Infrastructures.Middlewares;
 using Indotalent.Infrastructures.ODatas;
 using Indotalent.Infrastructures.Pdfs;
 using Indotalent.Models.Entities;
+using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -100,6 +101,11 @@ else
 {
     app.UseExceptionHandler("/Error");
 }
+
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+    ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
+});
 
 using (var scope = app.Services.CreateScope())
 {

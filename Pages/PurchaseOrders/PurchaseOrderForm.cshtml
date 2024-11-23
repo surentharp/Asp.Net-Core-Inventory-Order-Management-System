@@ -76,7 +76,7 @@
 
         </div>
         <div class="form-card-footer">
-            <button type="submit" id="btnSubmit" class="e-btn e-control @(Model.Action == "delete" ? "e-danger" : "")">@(Model.Action == "delete" ? "Delete" : "Submit")</button>
+            <button type="submit" id="btnSubmit" class="e-btn e-control @(Model.Action == "delete" ? "e-danger" : "")">@(Model.Action == "delete" ? "Delete" : Model.Action == "ack" ? "Ack" : "Submit")</button>
         </div>
 
     </form>

@@ -31,7 +31,7 @@ namespace Indotalent.Infrastructures.Emails
 
             using (var client = new SmtpClient())
             {
-                await client.ConnectAsync(_smtpConfiguration.Host, _smtpConfiguration.Port, true);
+                await client.ConnectAsync(_smtpConfiguration.Host, _smtpConfiguration.Port, MailKit.Security.SecureSocketOptions.None);
                 await client.AuthenticateAsync(_smtpConfiguration.UserName, _smtpConfiguration.Password);
                 await client.SendAsync(message);
                 await client.DisconnectAsync(true);

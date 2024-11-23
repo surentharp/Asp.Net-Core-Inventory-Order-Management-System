@@ -200,6 +200,21 @@ namespace Indotalent.Pages.PurchaseOrders
                 this.WriteStatusMessage($"Success update existing data.");
                 return Redirect($"./PurchaseOrderForm?rowGuid={existing.RowGuid}&action=edit");
             }
+            else if (action == "ack")
+            {
+                var existing = await _purchaseOrderService.GetByRowGuidAsync(input.RowGuid);
+                if (existing == null)
+                {
+                    var message = $"Unable to load existing data: {input.RowGuid}";
+                    throw new Exception(message);
+                }
+
+                _mapper.Map(input, existing);
+                await _purchaseOrderService.UpdateAsync(existing);
+
+                this.WriteStatusMessage($"Success acknowledged.");
+                return Redirect($"./PurchaseOrderForm?rowGuid={existing.RowGuid}&action=ack");
+            }
             else if (action == "delete")
             {
                 var existing = await _purchaseOrderService.GetByRowGuidAsync(input.RowGuid);

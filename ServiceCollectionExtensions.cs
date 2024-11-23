@@ -49,7 +49,7 @@ namespace Indotalent
         public static IServiceCollection AddAllCustomServices(this IServiceCollection services)
         {
             services.AddTransient<IActionContextAccessor, ActionContextAccessor>();
-            services.AddScoped<IEmailSender, SMTPEmailService>();
+            services.AddTransient<IEmailSender, SMTPEmailService>();
             services.AddScoped<IFileImageService, FileImageService>();
             services.AddScoped<IFileDocumentService, FileDocumentService>();
             services.AddScoped<ITimeZoneService, TimeZoneService>();

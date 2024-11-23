@@ -2,10 +2,14 @@
 using Indotalent.Applications.Products;
 using Indotalent.Applications.PurchaseOrderItems;
 using Indotalent.Applications.PurchaseOrders;
+using Indotalent.AppSettings;
 using Indotalent.Data;
 using Indotalent.Models.Entities;
 using Indotalent.Models.Enums;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using System.Threading;
 
 namespace Indotalent.Infrastructures.InventoryCheckService
@@ -14,11 +18,13 @@ namespace Indotalent.Infrastructures.InventoryCheckService
     public class InventoryCheckService : IInventoryCheckService, IHostedService, IDisposable
     {
         private readonly IServiceProvider _services;
+        private readonly IEmailSender _emailSender;
         private Timer _timer;
 
-        public InventoryCheckService(IServiceProvider services)
+        public InventoryCheckService(IServiceProvider services, IEmailSender emailSender)
         {
             _services = services;
+            _emailSender = emailSender;
         }
 
         public Task StartAsync(CancellationToken cancellationToken)
@@ -31,6 +37,7 @@ namespace Indotalent.Infrastructures.InventoryCheckService
         {
             using (var scope = _services.CreateScope())
             {
+               
                 var inventoryTransactionService = scope.ServiceProvider.GetRequiredService<InventoryTransactionService>();
                 var lowStockItems = inventoryTransactionService.GetAll()
                     .Include(x => x.Product)
@@ -63,6 +70,8 @@ namespace Indotalent.Infrastructures.InventoryCheckService
                         };
                         await purchaseOrderService.AddAsync(purchaseOrder);
 
+                        string bodytext = $"Number: {purchaseOrder.Number}\nOrderDate: {purchaseOrder.OrderDate}\nVendorID: {purchaseOrder.VendorId}\nOrderStatus: {purchaseOrder.OrderStatus}";
+
                         var purchaseOrderItem = new PurchaseOrderItem
                         {
                             PurchaseOrderId = purchaseOrder.Id,
@@ -74,6 +83,7 @@ namespace Indotalent.Infrastructures.InventoryCheckService
 
                         purchaseOrderItem.RecalculateTotal();
                         await scope.ServiceProvider.GetRequiredService<PurchaseOrderItemService>().AddAsync(purchaseOrderItem);
+                        await _emailSender.SendEmailAsync("surentharp@gmail.com", "Automatic Purchase ORder Created", bodytext);
                     }
                 }
             }

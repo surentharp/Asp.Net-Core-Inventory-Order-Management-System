@@ -912,3 +912,5 @@ D:\Suren\Personal\Documents\Universities\Laurentian\SDLC\ProjectCode\obj\Debug\n
 D:\Suren\Personal\Documents\Universities\Laurentian\SDLC\ProjectCode\obj\Debug\net8.0\Indotalent.pdb
 D:\Suren\Personal\Documents\Universities\Laurentian\SDLC\ProjectCode\obj\Debug\net8.0\Indotalent.genruntimeconfig.cache
 D:\Suren\Personal\Documents\Universities\Laurentian\SDLC\ProjectCode\obj\Debug\net8.0\ref\Indotalent.dll
+D:\Suren\Personal\Documents\Universities\Laurentian\SDLC\ProjectCode\bin\Debug\net8.0\MySqlConnector.dll
+D:\Suren\Personal\Documents\Universities\Laurentian\SDLC\ProjectCode\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
